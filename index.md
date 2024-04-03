@@ -18,3 +18,6 @@ When a style of food you love is available today.
 ## Team
 
 BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).
+
+## Team Contract
+[https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing](https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing)

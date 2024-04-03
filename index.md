@@ -15,24 +15,13 @@
 
 ## Overview
 
-BowFolios is an example web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
+The problem: There are many food choices on campus: campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and so forth. Let’s say you have a desire for chinese food today for lunch. What places on campus are serving chinese food menu items today? Alternatively, let’s say that you love the fresh salmon fillet at Campus Center, but that dish is only served once every few weeks. How do you find out on the day that it’s available?
 
-* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
-* [React](https://reactjs.org/) for component-based UI implementation and routing.
-* [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
-* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+The solution: The Manoa Munchie app enables you to login on your phone and determine:
 
-It also provides code that implements a variety of useful design concepts, including:
-
-* Three primary collections (Profiles, Projects, Interests) as well as three "join" Collections (ProfilesInterests, ProfilesProjects, and ProjectsInterests) that implement many-to-many relationships between them.
-* Top-level index pages (Profiles, Interests, and Projects) that show how to manipulate these six collections in various ways.
-* Initialization code to define default Profiles, Interests, and Projects and relations between them.
-* A simple Filter page to illustrate how to perform simple queries on the database and display the results.
-* Use of Meteor Methods to illustrate how to simplify implementation of multiple collection updates.
-* Use of indexes to enforce uniqueness of certain fields in the collections, enabling them to serve as primary keys.
-* Authentication using the built-in Meteor accounts package along with Sign Up and Sign In pages.
-* Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter).
-* Use of Meteor Assets to initialize the database (helpful when initialization exceeds settings file size limits).
+What specific menu items will be available today at campus center locations;
+What food is available right now.
+When a style of food you love is available today.
 
 ## User Guide
 

@@ -21,3 +21,18 @@ Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://ricki
 
 ## Team Contract
 [https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing](https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing)
+
+
+## Development
+
+The development process will be conforming to the Issue Driven Project Management style of development. The development is consisted of several milstones, each having several tasks meant for each person in the group. 
+
+## Milestone 1
+
+The first milestone consists of the development of HTML pages, meant to be a mockup of the Manoa Munchies app. This includes the development of the UI/UX, the general aesthetic considerations, and the beginnings of how users would be using it.
+
+By the end of this milestone, the system would be deployed to Digital ocean. The following image contains the tasks divided out to group members.
+
+<p align="center">
+    <img width="800px" src="docs/milestone1.png" />
+</p>

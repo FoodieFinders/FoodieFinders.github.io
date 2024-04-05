@@ -21,7 +21,7 @@ When a style of food you love is available today.
 
 ## Team
 
-Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://rickiace.github.io/), [Dan Vu](https://danvu42.github.io/), [Ibrahim Matar](https://hima700.github.io/) and [Joshuah D. Jones](https://jj17de.github.io/).
+Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://rickiace.github.io/),[Ezekiel Ira Nunez](https://ezekielira.github.io/), [Dan Vu](https://danvu42.github.io/), [Ibrahim Matar](https://hima700.github.io/) and [Joshuah D. Jones](https://jj17de.github.io/).
 
 ## Team Contract
 [https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing](https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing)
@@ -50,7 +50,9 @@ Upon arriving at the landing page, users can navigate to the sign-in link or, if
 
 
 ## Vendor home page
+<img src="docs/vendorpage.png">
 
+Similar to the user profile page this page is exclusively for vendors. It provides a specialized space where vendors can add establishments they are currently operating. The page features an intuitive dashboard displaying reviews of their owned businesses as well as detailed information on each particular location. Additionally, vendors have the ability to make modifications to their business listings, ensuring their information is current and accurately reflects their offerings.
 
 
 ## Milestone 1
@@ -66,3 +68,17 @@ By the end of this milestone, the system would be deployed to Digital ocean. The
 
 
 ## About Us
+
+### Dan Vu
+My name is Dan Vu, I'm an Electrical Engineering major in my third year at UH Manoa. I have a particular interest in web design and web development, which is the main reason why I took ICS 314 as an engineering breadth elective.
+
+### Ezekiel Ira Nunez
+My name is Ezekiel Ira Nunez, I'm a Data Science major at UH Manoa. I wasn't initially interested in web design, but came to appreciate it more and more. I want to eventually get into the video game industry.
+
+### Ricki Ace Gaborno
+My name is Ricki Ace Gaborno, I'm a Computer Scientist major in UH Manoa. I was more interested in computer engineering but did computer science instead because I want to eventually start making games or work for a video game company.
+
+### Ibrahim Matar
+My name is Ibrahim Matar, I’m a Computer Engineering major in my last semester, i am interested in software development and cybersecurity.
+
+

@@ -52,6 +52,9 @@ selections based on peer reviews and ratings. Next to this feature there will be
 
 
 ## User profile page
+<img src="docs/userprofilepage.png">
+
+Upon arriving at the landing page, users can navigate to the sign-in link or, if already signed in, can select their username. This action redirects them to their profile page, which displays their personal information. On this page, users have the option to edit and update their profile details.For vendor users, the profile page serves as a platform to submit their restaurant details and credentials for verification and for students they have a selection to write a review.
 
 
 

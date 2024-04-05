@@ -27,6 +27,55 @@ Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://ricki
 
 The development process will be conforming to the Issue Driven Project Management style of development. The development is consisted of several milstones, each having several tasks meant for each person in the group. 
 
+## Landing Page
+
+
+
+
+## User Home Page
+
+
+
+
+## User profile page
+
+
+
+
+## Vendor home page
+
+
+
+
+
+## Add Vendor page
+
+
+
+
+## Today’s top picks page
+
+
+
+
+
+
+## Foods available right now page
+
+
+
+
+
+
+## Admin home page
+
+
+
+
+
+
+
+
 ## Milestone 1
 
 The first milestone consists of the development of HTML pages, meant to be a mockup of the Manoa Munchies app. This includes the development of the UI/UX, the general aesthetic considerations, and the beginnings of how users would be using it.

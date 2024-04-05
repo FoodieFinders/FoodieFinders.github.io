@@ -7,6 +7,7 @@
 * [Landing page](#landing-page)
 * [User profile page](#user-profile-page)
 * [Vendor home page](#vendor-home-page)
+* [Milestone 1](#milestone-1)
 * [About Us](#about-us)
 
 ## Overview

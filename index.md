@@ -36,6 +36,12 @@ Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://ricki
 The development process will be conforming to the Issue Driven Project Management style of development. The development is consisted of several milstones, each having several tasks meant for each person in the group. 
 
 ## Landing Page
+<img src="docs/landingpage.png">
+
+
+
+Upon launching the application, users are welcomed to the landing interface featuring "Today's Top Picks"—a curated showcase of the day's most esteemed dining
+selections based on peer reviews and ratings. Next to this feature there will be a selection portal, where the user can identify themselves as either a vendor or a student. Vendors are redirected to their Vendor Home Page, and students are able to leave reviews on meals they have tried.
 
 
 
@@ -62,6 +68,7 @@ The development process will be conforming to the Issue Driven Project Managemen
 
 
 ## Today’s top picks page
+
 
 
 

@@ -4,7 +4,7 @@
 
 * [Overview](#overview)
 * [Team](#team)
-* [Landing page](#Landing_Page)
+* [Landing page](#landing-page)
 * [User home page](#User-home-page)
 * [Vendor home page](#Vendor-home-page)
 * [Admin home page](#Admin-home-page)

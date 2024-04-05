@@ -1,4 +1,4 @@
-# FoodieFinder
+# FoodieFinders
 
 ## Table of contents
 

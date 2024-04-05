@@ -82,4 +82,7 @@ My name is Ricki Ace Gaborno, I'm a Computer Scientist major in UH Manoa. I was 
 ### Ibrahim Matar
 My name is Ibrahim Matar, I’m a Computer Engineering major in my last semester, i am interested in software development and cybersecurity.
 
+### Joshuah D. Jones
+My name is Joshua Jones, im an Information and Computer Science Major, I am most interested in Data Analytics, Statistics/Probability and Information Assurance.
+
 

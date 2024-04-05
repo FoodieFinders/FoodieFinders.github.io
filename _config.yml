@@ -1,2 +1,7 @@
-name: My Site
-theme: jekyll-theme-minima
+title: FoodieFinders
+description: A Website to find places to eat near your campus
+google_analytics:
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

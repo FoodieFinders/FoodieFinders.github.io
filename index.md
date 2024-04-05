@@ -1,4 +1,4 @@
-# Manoa Munchies
+# FoodieFinders
 
 ## Table of contents
 

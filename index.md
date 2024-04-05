@@ -4,14 +4,13 @@
 
 * [Overview](#overview)
 * [Team](#team)
-* [Landing page](#Landing_Page)
-* [User home page](#User-Home-Page)
-* [Vendor home page](#Vendor-home-page)
-* [Admin home page](#Admin-home-page)
-* [Add Vendor page](#Add-Vendor-page)
-* [User profile page](#User-profile-page)
-* [Foods available right now page](#Foods-available-right-now-page)
-* [Today’s top picks page](#Today's-top-picks-page)
+* [Landing page](#landing-page)
+* [User home page](#user-home-page)
+* [Vendor home page](#vendor-home-page)
+* [Admin home page](#admin-home-page)
+* [Add Vendor page](#add-Vendor-page)
+* [User profile page](#user-profile-page)
+* [Today’s top picks page](#today's-top-picks-page)
 
 ## Overview
 
@@ -65,10 +64,6 @@ The development process will be conforming to the Issue Driven Project Managemen
 
 
 
-
-
-
-## Foods available right now page
 
 
 

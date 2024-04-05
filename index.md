@@ -5,12 +5,8 @@
 * [Overview](#overview)
 * [Team](#team)
 * [Landing page](#landing-page)
-* [User home page](#user-home-page)
-* [Vendor home page](#vendor-home-page)
-* [Admin home page](#admin-home-page)
-* [Add Vendor page](#add-Vendor-page)
 * [User profile page](#user-profile-page)
-* [Today’s top picks page](#today's-top-picks-page)
+* [Vendor home page](#vendor-home-page)
 * [About Us](#about-us)
 
 ## Overview
@@ -45,12 +41,6 @@ selections based on peer reviews and ratings. Next to this feature there will be
 
 
 
-
-## User Home Page
-
-
-
-
 ## User profile page
 <img src="docs/userprofilepage.png">
 
@@ -60,33 +50,6 @@ Upon arriving at the landing page, users can navigate to the sign-in link or, if
 
 
 ## Vendor home page
-
-
-
-
-
-## Add Vendor page
-
-
-
-
-## Today’s top picks page
-
-
-
-
-
-
-
-
-
-
-## Admin home page
-
-
-
-
-
 
 
 

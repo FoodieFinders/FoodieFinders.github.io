@@ -11,6 +11,7 @@
 * [Add Vendor page](#add-Vendor-page)
 * [User profile page](#user-profile-page)
 * [Today’s top picks page](#today's-top-picks-page)
+* [About Us](#about-us)
 
 ## Overview
 
@@ -88,3 +89,7 @@ By the end of this milestone, the system would be deployed to Digital ocean. The
 <p align="center">
     <img width="800px" src="docs/milestone1.png" />
 </p>
+
+
+
+## About Us

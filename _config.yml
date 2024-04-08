@@ -1,6 +1,7 @@
-title: FoodieFinders
-description: A Website to find places to eat near your campus
+title: meteor-application-template-react
+description: A template for quickly starting Meteor application development
 google_analytics:
+show_downloads: true
 theme: jekyll-theme-cayman
 
 gems:

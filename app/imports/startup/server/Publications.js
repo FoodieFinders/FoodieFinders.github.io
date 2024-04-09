@@ -1,6 +1,27 @@
 import { Meteor } from 'meteor/meteor';
 import { Roles } from 'meteor/alanning:roles';
 import { Stuffs } from '../../api/stuff/Stuff';
+import { TopPicks } from '../../api/toppicks/TopPicks'
+// Server-side code
+// Server-side code
+/*Meteor.publish(TopPicks.userPublicationName, function () {
+  return TopPicks.collection.find();
+});
+
+if (Meteor.isServer) {
+  Meteor.publish('topPicks', function () {
+    return TopPicks.find();
+  });
+}*/
+
+
+Meteor.publish('topPicks', function () {
+  return TopPicks.find(); // No filters here, should return all documents
+});
+
+
+
+/*
 
 // User-level publication.
 // If logged in, then publish documents owned by this user. Otherwise, publish nothing.
@@ -20,6 +41,7 @@ Meteor.publish(Stuffs.adminPublicationName, function () {
   }
   return this.ready();
 });
+*/
 
 // alanning:roles publication
 // Recommended code to publish roles for each user.

@@ -26,3 +26,113 @@ body {
   padding-top: 10px;
   padding-bottom: 20px;
 }
+
+#landing-page {
+  background-color: #a2d9a2; /* Replace with the actual background color */
+}
+
+.top-picks-header {
+  background-color: #a2d9a2; /* Replace with the actual header background color */
+  color: white; /* Replace with the actual header text color */
+  padding: 20px 0;
+  margin-bottom: 30px;
+}
+
+.top-pick-list {
+  border-radius: 15px;
+  overflow: hidden;
+  /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+}
+
+.top-pick-list .list-group-item {
+  border: none;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+
+.top-pick-list .list-group-item:not(:last-child) {
+  border-bottom: 1px solid #ececec;
+}
+
+.top-pick-list img {
+  border-radius: 15px;
+  margin-right: 15px;
+}
+
+.cta-card {
+  background-color: #a2d9a2; /* Replace with the actual card background color */
+  color: white; /* Replace with the actual card text color */
+  margin-bottom: 30px;
+}
+
+.cta-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Aligns CTAs to the top */
+  padding-top: 250px;
+  padding-right: 150px;
+}
+
+.cta-card .btn {
+  width: 80%;
+  margin: 10px auto;
+}
+
+/* This is the 'See all of today's top picks!' button */
+#landing-page .btn-success {
+  background-color: #4CAF50; /* Replace with the actual button color */
+  border-color: #4CAF50; /* Replace with the actual button color */
+}
+
+/* Vendor Dashboard button styles */
+#landing-page .btn-danger {
+  background-color: #ff5e5e; /* Replace with the actual button color */
+  border-color: #ff5e5e; /* Replace with the actual button color */
+}
+
+/* Leave a review button styles */
+#landing-page .btn-primary {
+  background-color: #4e73df; /* Replace with the actual button color */
+  border-color: #4e73df; /* Replace with the actual button color */
+}
+
+.top-pick-card {
+  background-color: transparent; /* Make card background transparent */
+  border: none; /* Remove card border if not needed */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add some shadow to lift the card off the page */
+  max-width: 700px; /* Adjust this value to suit your design */
+  margin: 10px; /* This will center the card if it's within a column */
+}
+
+.cta-container h2 {
+  white-space: nowrap; /* Prevents the text from wrapping onto the next line */
+  font-size: 50px; /* Or whatever size you're aiming for */
+  margin-bottom: 0.5rem; /* Adjust the bottom margin as needed */
+  color: black;
+  font-weight: bold;
+  padding-right: 200px;
+}
+
+.top-picks-header h1 {
+  white-space: nowrap; /* Prevents the text from wrapping onto the next line */
+  font-size: 50px; /* Or whatever size you're aiming for */
+  margin-bottom: 0.5rem; /* Adjust the bottom margin as needed */
+  color: black;
+  font-weight: bold;
+  padding-right: 200px;
+}
+
+.custom-navbar {
+  background-color: #124216; /* Custom background color */
+  color: #fff; /* Custom text color */
+}
+
+#login-dropdown {
+  color: #fff !important; /* Ensures the color overrides Bootstrap's default styling */
+}
+
+.custom-review-button {
+  background-color: #124216 !important; /* Example: a green background */
+  border: none !important;
+}

@@ -13,10 +13,10 @@ const NavBar = () => {
   }), []);
 
   return (
-    <Navbar bg="light" expand="lg">
+    <Navbar className="custom-navbar" expand="lg">
       <Container>
         <Navbar.Brand as={NavLink} to="/">
-          <h2>Manoa Munchies</h2>
+          <h2 className="custom-navbar"> <i className='fas fa-hotdog'></i>  Foodie Finder</h2>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

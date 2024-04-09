@@ -20,6 +20,7 @@ import LoadingSpinner from '../components/LoadingSpinner';
 import VendorDashboard from '../pages/VendorDashboard';
 import LeaveReview from '../pages/LeaveReview';
 import TopPicks from '../pages/TopPicks'
+import RestaurantsList from '../components/RestaurantsList'
 
 
 /** Top-level layout component for this application. Called in imports/startup/client/startup.jsx. */
@@ -39,6 +40,7 @@ const App = () => {
           <Route path="/signin" element={<SignIn />} />
           <Route path="/signup" element={<SignUp />} />
           <Route path="/signout" element={<SignOut />} />
+          <Route path="/restaurants" element={<RestaurantsList />} />
           <Route path="/home" element={<ProtectedRoute><Landing /></ProtectedRoute>} />
           <Route path="/list" element={<ProtectedRoute><ListStuff /></ProtectedRoute>} />
           <Route path="/add" element={<ProtectedRoute><AddStuff /></ProtectedRoute>} />

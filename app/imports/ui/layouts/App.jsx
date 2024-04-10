@@ -1,10 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 import { Meteor } from 'meteor/meteor';
 import { useTracker } from 'meteor/react-meteor-data';
 import { Roles } from 'meteor/alanning:roles';
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import Footer from '../components/Footer';
 import Landing from '../pages/Landing';
 import ListStuff from '../pages/ListStuff';
 import ListStuffAdmin from '../pages/ListStuffAdmin';
@@ -21,6 +23,7 @@ import VendorDashboard from '../pages/VendorDashboard';
 import LeaveReview from '../pages/LeaveReview';
 import TopPicks from '../pages/TopPicks'
 import RestaurantsList from '../components/RestaurantsList'
+
 
 
 /** Top-level layout component for this application. Called in imports/startup/client/startup.jsx. */
@@ -52,6 +55,10 @@ const App = () => {
           <Route path="/notauthorized" element={<NotAuthorized />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
+          <Route path="/notauthorized" element={<NotAuthorized />} />
+          <Route path="*" element={<NotFound />} />
+        </Routes>
+        <Footer />
       </div>
     </Router>
   );

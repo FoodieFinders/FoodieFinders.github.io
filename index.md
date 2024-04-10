@@ -1,6 +1,7 @@
+
 # FoodieFinders
 
-## Table of contents
+meteor-application-template-react is a sample Meteor 2.9 application that illustrates: 
 
 * [Overview](#overview)
 * [Team](#team)
@@ -10,17 +11,17 @@
 * [Milestone 1](#milestone-1)
 * [About Us](#about-us)
 
-## Overview
+The goal of this template is to help you get quickly started doing Meteor development by providing a reasonable directory structure for development and deployment, a set of common extensions to the core framework, and boilerplate code to implement basic page display, navigation, forms, roles, and collection manipulation.
 
-The problem: There are many food choices on campus: campus center, food trucks, Manoa Gardens, Paradise Palms, vending machines, and so forth. Let’s say you have a desire for chinese food today for lunch. What places on campus are serving chinese food menu items today? Alternatively, let’s say that you love the fresh salmon fillet at Campus Center, but that dish is only served once every few weeks. How do you find out on the day that it’s available?
+To keep this codebase simple and small, some important capabilities are intentionally excluded from this template:
+
+  * Unit Testing.
+  * Security (meteor-application-template-react enables the insecure packages)
+  * Deployment
 
 The solution: The FoodieFinders app enables you to login on your phone and determine:
 
-What specific menu items will be available today at campus center locations;
-What food is available right now.
-When a style of food you love is available today.
-
-## Team
+Examples of the these capabilities will be provided elsewhere.
 
 Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://rickiace.github.io/),[Ezekiel Ira Nunez](https://ezekielira.github.io/), [Dan Vu](https://danvu42.github.io/), [Ibrahim Matar](https://hima700.github.io/) and [Joshuah D. Jones](https://jj17de.github.io/).
 
@@ -84,5 +85,4 @@ My name is Ibrahim Matar, I’m a Computer Engineering major in my last semester
 
 ### Joshuah D. Jones
 My name is Joshua Jones, im an Information and Computer Science Major, I am most interested in Data Analytics, Statistics/Probability and Information Assurance.
-
 

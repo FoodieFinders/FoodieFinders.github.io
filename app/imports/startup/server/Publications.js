@@ -88,5 +88,3 @@ Meteor.publish(null, function () {
   return this.ready();
 });
 */
-
-*/

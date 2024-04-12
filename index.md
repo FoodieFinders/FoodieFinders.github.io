@@ -62,7 +62,7 @@ Similar to the user profile page this page is exclusively for vendors. It provid
 ## Review Page
 <img src="docs/reviewpage.png">
 
-Our 'Leave a Review' feature offers an easy way for users to share their experiences. Upon clicking the 'Leave a Review' button from either the landing or profile page, users are taken to a dedicated review interface. Here, you can choose the establishment you visited and the meal you ate. We've made a straightforward way to rate the users experience with our star-based system. To give a more detailed account, there's space for the user to articulate their thoughts and comments about the meal. 
+Our Leave Review Page feature offers an easy way for users to share their experiences. Upon clicking the 'Leave a Review' button from either the landing or profile page, users are taken to a dedicated review interface. Here, you can choose the establishment you visited and the meal you ate. We've made a straightforward way to rate the users experience with our star-based system. To give a more detailed account, there's space for the user to articulate their thoughts and comments about the meal. 
 
 
 

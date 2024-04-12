@@ -27,6 +27,9 @@ Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://ricki
 ## Team Contract
 [https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing](https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing)
 
+## GitHub organization
+
+[https://github.com/FoodieFinders](https://github.com/FoodieFinders)
 
 ## Development
 
@@ -69,6 +72,22 @@ By the end of this milestone, the system would be deployed to Digital ocean. The
     <img width="800px" src="docs/milestone1.png" />
 </p>
 
+### Link to project milestone
+
+[https://github.com/orgs/FoodieFinders/projects/1](https://github.com/orgs/FoodieFinders/projects/1)
+
+## Milestone 2
+
+The second milestone mostly consists of the backend core implementation of all the skeleton mockup pages that were created in M1. This would include most of the backend work such as database development and actual useable functionality of the app.
+
+
+<p align="center">
+    <img width="800px" src="docs/milestone2.png" />
+</p>
+
+### Link to project milestone
+
+[https://github.com/orgs/FoodieFinders/projects/2](https://github.com/orgs/FoodieFinders/projects/2)
 
 
 ## About Us

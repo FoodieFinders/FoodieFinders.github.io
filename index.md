@@ -59,7 +59,7 @@ Upon arriving at the landing page, users can navigate to the sign-in link or, if
 Similar to the user profile page this page is exclusively for vendors. It provides a specialized space where vendors can add establishments they are currently operating. The page features an intuitive dashboard displaying reviews of their owned businesses as well as detailed information on each particular location. Additionally, vendors have the ability to make modifications to their business listings, ensuring their information is current and accurately reflects their offerings.
 
 ## Deployment link
-[http://164.92.101.229/](http://164.92.101.229/)
+[https://foodiefinders.lol/](https://foodiefinders.lol/)
 
 
 ## Milestone 1

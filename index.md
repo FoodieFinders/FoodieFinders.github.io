@@ -7,6 +7,7 @@
 * [Landing page](#landing-page)
 * [User profile page](#user-profile-page)
 * [Vendor home page](#vendor-home-page)
+* [Review Page](#review-page)
 * [Milestone 1](#milestone-1)
 * [About Us](#about-us)
 
@@ -36,7 +37,7 @@ Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://ricki
 The development process will be conforming to the Issue Driven Project Management style of development. The development is consisted of several milstones, each having several tasks meant for each person in the group. 
 
 ## Landing Page
-<img src="docs/landingpage.png">
+<img src="docs/landingpage2.png">
 
 
 
@@ -46,9 +47,9 @@ selections based on peer reviews and ratings. Next to this feature there will be
 
 
 ## User profile page
-<img src="docs/userprofilepage.png">
+<img src="docs/userprofilepage2.png">
 
-Upon arriving at the landing page, users can navigate to the sign-in link or, if already signed in, can select their username. This action redirects them to their profile page, which displays their personal information. On this page, users have the option to edit and update their profile details.For vendor users, the profile page serves as a platform to submit their restaurant details and credentials for verification and for students they have a selection to write a review.
+Upon arriving at the landing page, users can navigate to the sign-in link or, if already signed in, can select their username which brings down a selection where the user can select My Profile. This action redirects them to their profile page, which displays their personal information. On this page, users have the option to edit and update their profile details.For vendor users, the profile page serves as a platform to submit their restaurant details and credentials for verification and for students they have a selection to write a review.
 
 
 
@@ -57,6 +58,16 @@ Upon arriving at the landing page, users can navigate to the sign-in link or, if
 <img src="docs/vendorpage.png">
 
 Similar to the user profile page this page is exclusively for vendors. It provides a specialized space where vendors can add establishments they are currently operating. The page features an intuitive dashboard displaying reviews of their owned businesses as well as detailed information on each particular location. Additionally, vendors have the ability to make modifications to their business listings, ensuring their information is current and accurately reflects their offerings.
+
+## Review Page
+<img src="docs/reviewpage.png">
+
+Our Leave Review Page feature offers an easy way for users to share their experiences. Upon clicking the 'Leave a Review' button from either the landing or profile page, users are taken to a dedicated review interface. Here, you can choose the establishment you visited and the meal you ate. We've made a straightforward way to rate the users experience with our star-based system. To give a more detailed account, there's space for the user to articulate their thoughts and comments about the meal. 
+
+
+
+
+
 
 ## Deployment link
 [https://foodiefinders.lol/](https://foodiefinders.lol/)

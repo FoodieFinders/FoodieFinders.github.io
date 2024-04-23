@@ -4,17 +4,20 @@
 
 * [Overview](#overview)
 * [Team](#team)
+* [Installation](#installation)
 * [Landing page](#landing-page)
 * [User profile page](#user-profile-page)
 * [Edit User Profile Page](#edit-user-profile-page)
 * [Add Restaurant Page](#add-restaurant-page)
 * [Our Vendors Page](#our-vendors-page)
-* [What's Hot Page](#what's-hot-page)
+* [Whats Hot Page](#whats-hot-page)
 * [Review Page](#review-page)
 * [About Us](#about-us-page)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
+* [Milestone 3](#milestone-3)
 * [Meet Our Developers](#meet-our-developers)
+
 
 ## Overview
 
@@ -28,7 +31,7 @@ When a style of food you love is available today.
 
 ## Team
 
-Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://rickiace.github.io/),[Ezekiel Ira Nunez](https://ezekielira.github.io/), [Dan Vu](https://danvu42.github.io/), [Ibrahim Matar](https://hima700.github.io/) and [Joshuah D. Jones](https://jj17de.github.io/).
+Foodie Finders is designed, and implemented by [Ricki Ace Gaborno](https://rickiace.github.io/),[Ezekiel Ira Nunez](https://ezekielira.github.io/), [Dan Vu](https://danvu42.github.io/), [Ibrahim Matar](https://hima700.github.io/) and [Joshuah D. Jones](https://jj17de.github.io/).
 
 ## Team Contract
 [https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing](https://docs.google.com/document/d/1wZS-q4oLNYJF6PaphSvtI7CZfoSVRkpzUpeGCCYLOMM/edit?usp=sharing)
@@ -39,7 +42,7 @@ Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://ricki
 
 ## Development
 
-The development process will be conforming to the Issue Driven Project Management style of development. The development is consisted of several milstones, each having several tasks meant for each person in the group. 
+The development process will be conforming to the Issue Driven Project Management style of development. The development is consisted of several milestones, each having several tasks meant for each person in the group. 
 
 ## Installation
 First, [install meteor](https://docs.meteor.com/install.html).
@@ -130,7 +133,7 @@ This page is accessible by selecting "Add Restaurant" on the NavBar and is exclu
 
 This page is accessible by selecting "Our Vendors" on the NavBar. On this page, users are able to search for items from our vendors with a filter. The users are also allowed to select the items that redirects them to the review page where they are able to create a review.
 
-## What's Hot Page
+## Whats Hot Page
 <img src="docs/whatshotpage.png">
 
 This page showcases restaurants and items that are positvely reviewed. Users will be greeted with the "Spotlight Of The Week" section which showcases a restaurant their reviews and where they are located. This page also allows users to select items that are showcased and select it to find the store its being sold from.
@@ -172,6 +175,8 @@ By the end of this milestone, the system would be deployed to Digital ocean. The
 ## Milestone 2
 
 The second milestone mostly consists of the backend core implementation of all the skeleton mockup pages that were created in M1. This would include most of the backend work such as database development and actual useable functionality of the app.
+
+## Milestone 3
 
 
 <p align="center">

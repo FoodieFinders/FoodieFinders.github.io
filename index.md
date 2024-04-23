@@ -6,10 +6,15 @@
 * [Team](#team)
 * [Landing page](#landing-page)
 * [User profile page](#user-profile-page)
-* [Vendor home page](#vendor-home-page)
+* [Edit User Profile Page](#edit-user-profile-page)
+* [Add Restaurant Page](#add-restaurant-page)
+* [Our Vendors Page](#our-vendors-page)
+* [What's Hot Page](#what's-hot-page)
 * [Review Page](#review-page)
+* [About Us](#about-us-page)
 * [Milestone 1](#milestone-1)
-* [About Us](#about-us)
+* [Milestone 2](#milestone-2)
+* [Meet Our Developers](#meet-our-developers)
 
 ## Overview
 
@@ -36,8 +41,66 @@ Manoa Munchies is designed, and implemented by [Ricki Ace Gaborno](https://ricki
 
 The development process will be conforming to the Issue Driven Project Management style of development. The development is consisted of several milstones, each having several tasks meant for each person in the group. 
 
+## Installation
+First, [install meteor](https://docs.meteor.com/install.html).
+
+Second, [download a copy of FoodieFinders](https://github.com/FoodieFinders/Foodie-Finders)
+
+Third, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+
+Once the libraries are installed, you can run the application by invoking:
+
+```
+$ meteor npm run start
+```
+
+The first time you run the app, it will create some default users and data. Here is the output:
+
+```
+$ meteor npm run start
+
+[[[[[ C:\Users\Ricki\Documents\GitHub\Foodie-Finders\app ]]]]]
+
+=> Started proxy.                             
+=> Started HMR server.                        
+=> Started MongoDB.                           
+I20240423-01:58:06.174(-10)? Creating the default user(s)
+I20240423-01:58:06.263(-10)? Creating user admin@foo.com.
+I20240423-01:58:06.314(-10)? Creating user john@foo.com.
+I20240423-01:58:06.390(-10)? Creating default data.
+I20240423-01:58:06.391(-10)?   Adding: Basket (john@foo.com)
+I20240423-01:58:06.414(-10)?   Adding: Bicycle (john@foo.com)
+I20240423-01:58:06.415(-10)?   Adding: Banana (admin@foo.com)
+I20240423-01:58:06.415(-10)?   Adding: Boogie Board (admin@foo.com)
+I20240423-01:58:06.416(-10)? Creating default data.
+I20240423-01:58:06.416(-10)?   Adding: john@foo.com (undefined)
+I20240423-01:58:06.425(-10)?   Adding: admin@foo.com (undefined)
+I20240423-01:58:06.430(-10)? Creating default restaurants.
+I20240423-01:58:06.431(-10)?   Adding Restaurant: burgerINC
+I20240423-01:58:06.441(-10)?   Adding Restaurant: pizzaINC
+I20240423-01:58:06.443(-10)?   Adding Restaurant: sushiINC
+I20240423-01:58:06.446(-10)?   Adding Restaurant: italianINC
+I20240423-01:58:06.450(-10)? Creating default reviews.
+I20240423-01:58:06.450(-10)?   Adding Review: undefined
+I20240423-01:58:06.458(-10)?   Adding Review: undefined
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
+
+```
+
+If all goes well, the template application will appear at http://localhost:3000. You can login using the credentials in settings.development.json, or else register a new account.
+
+
+
+
 ## Landing Page
-<img src="docs/landingpage2.png">
+<img src="docs/m2landingpage.png">
 
 
 
@@ -47,22 +110,41 @@ selections based on peer reviews and ratings. Next to this feature there will be
 
 
 ## User profile page
-<img src="docs/userprofilepage2.png">
+<img src="docs/m2userPage.png">
 
-Upon arriving at the landing page, users can navigate to the sign-in link or, if already signed in, can select their username which brings down a selection where the user can select My Profile. This action redirects them to their profile page, which displays their personal information. On this page, users have the option to edit and update their profile details.For vendor users, the profile page serves as a platform to submit their restaurant details and credentials for verification and for students they have a selection to write a review.
+Upon arriving at the landing page, users can navigate to the sign-in link or, if already signed in, they can select their username which brings down a selection where the user can select My Profile. This action redirects them to their profile page, which displays their personal information. On this page, users have the option to edit and update their profile details.For vendor users, the profile page serves as a platform to submit their restaurant details and credentials for verification and for students they have a selection to write a review.
+
+## Edit User Profile Page
+<img src="docs/m2editprofilepage.png">
+
+On their profile page, users will find a button that allows them to access the edit profile section. Here, they can update their first name, last name, and profile picture.
 
 
+## Add Restaurant Page
+<img src="docs/m2vendorpage.png">
 
+This page is accessible by selecting "Add Restaurant" on the NavBar and is exclusively available to users with the title of Vendor. On this page, vendors can add their restaurant's name, opening and closing hours, address, image, and a description of the restaurant they wish to add.
 
-## Vendor home page
-<img src="docs/vendorpage.png">
+## Our Vendors Page
+<img src="docs/m2ourvendorspage.png">
 
-Similar to the user profile page this page is exclusively for vendors. It provides a specialized space where vendors can add establishments they are currently operating. The page features an intuitive dashboard displaying reviews of their owned businesses as well as detailed information on each particular location. Additionally, vendors have the ability to make modifications to their business listings, ensuring their information is current and accurately reflects their offerings.
+This page is accessible by selecting "Our Vendors" on the NavBar. On this page, users are able to search for items from our vendors with a filter. The users are also allowed to select the items that redirects them to the review page where they are able to create a review.
+
+## What's Hot Page
+<img src="docs/whatshotpage.png">
+
+This page showcases restaurants and items that are positvely reviewed. Users will be greeted with the "Spotlight Of The Week" section which showcases a restaurant their reviews and where they are located. This page also allows users to select items that are showcased and select it to find the store its being sold from.
 
 ## Review Page
-<img src="docs/reviewpage.png">
+<img src="docs/m2leaveareviewpage.png">
 
-Our Leave Review Page feature offers an easy way for users to share their experiences. Upon clicking the 'Leave a Review' button from either the landing or profile page, users are taken to a dedicated review interface. Here, you can choose the establishment you visited and the meal you ate. We've made a straightforward way to rate the users experience with our star-based system. To give a more detailed account, there's space for the user to articulate their thoughts and comments about the meal. 
+Our Leave Review Page feature offers an easy way for users to share their experiences. The user is able to go to the review page by clicking food items that are on the landing page or from the user profile page which will redirect the user to a review page of that specific item you have chosen. This is where the user is able to select the rating and leave comments on what they think about the item they are reviewing. 
+
+## About Us Page
+<img src="docs/m2aboutuspage.png">
+
+This page gives an in depth explanation on what the website is trying to achieve. We give information on how we are used and when our application can become handy, the page also provides links to other pages where users can start interacting with the application.
+
 
 
 
@@ -101,7 +183,7 @@ The second milestone mostly consists of the backend core implementation of all t
 [https://github.com/orgs/FoodieFinders/projects/2](https://github.com/orgs/FoodieFinders/projects/2)
 
 
-## About Us
+## Meet Our Developers
 
 ### Dan Vu
 My name is Dan Vu, I'm an Electrical Engineering major in my third year at UH Manoa. I have a particular interest in web design and web development, which is the main reason why I took ICS 314 as an engineering breadth elective.

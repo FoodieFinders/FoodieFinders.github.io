@@ -176,16 +176,22 @@ By the end of this milestone, the system would be deployed to Digital ocean. The
 
 The second milestone mostly consists of the backend core implementation of all the skeleton mockup pages that were created in M1. This would include most of the backend work such as database development and actual useable functionality of the app.
 
-## Milestone 3
-
-
 <p align="center">
     <img width="800px" src="docs/milestone2.png" />
 </p>
 
+[https://github.com/orgs/FoodieFinders/projects/2](https://github.com/orgs/FoodieFinders/projects/2)
+
+## Milestone 3
+
+
+<p align="center">
+    <img width="800px" src="docs/milestone3.png" />
+</p>
+
 ### Link to project milestone
 
-[https://github.com/orgs/FoodieFinders/projects/2](https://github.com/orgs/FoodieFinders/projects/2)
+[https://github.com/orgs/FoodieFinders/projects/3](https://github.com/orgs/FoodieFinders/projects/3)
 
 
 ## Meet Our Developers

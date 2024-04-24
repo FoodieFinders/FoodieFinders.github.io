@@ -107,9 +107,11 @@ If all goes well, the template application will appear at http://localhost:3000.
 
 
 
-Upon launching the application, users are welcomed to the landing interface featuring "Today's Top Picks"—a curated showcase of the day's most esteemed dining
+Upon launching the application, users are welcomed to the landing interface featuring "Today's Top Picks" a curated showcase of the day's most esteemed dining
 selections based on peer reviews and ratings. Next to this feature there will be a selection portal, where the user can identify themselves as either a vendor or a student. Vendors are redirected to their Vendor Home Page, and students are able to leave reviews on meals they have tried.
 
+If the logged in user has the admin role they are allowed to delete restaraunts and delete reviews from restaurants
+<img src="docs/m2adminlanding.png">
 
 
 ## User profile page
@@ -144,7 +146,7 @@ This page showcases restaurants and items that are positvely reviewed. Users wil
 Our Leave Review Page feature offers an easy way for users to share their experiences. The user is able to go to the review page by clicking food items that are on the landing page or from the user profile page which will redirect the user to a review page of that specific item you have chosen. This is where the user is able to select the rating and leave comments on what they think about the item they are reviewing. 
 
 ## About Us Page
-<img src="docs/m2aboutuspage.png">
+<img src="docs/m2aboutus.png">
 
 This page gives an in depth explanation on what the website is trying to achieve. We give information on how we are used and when our application can become handy, the page also provides links to other pages where users can start interacting with the application.
 

@@ -16,6 +16,7 @@
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Milestone 3](#milestone-3)
+* [Community Feedback](#community-feedback)
 * [Meet Our Developers](#meet-our-developers)
 
 
@@ -103,53 +104,72 @@ If all goes well, the template application will appear at http://localhost:3000.
 
 
 ## Landing Page
-<img src="docs/m2landingpage.png">
+<img src="docs/m3landingpage.png">
 
 
 
-Upon launching the application, users are welcomed to the landing interface featuring "Today's Top Picks"—a curated showcase of the day's most esteemed dining
+Upon launching the application, users are welcomed to the landing interface featuring "Today's Top Picks" a curated showcase of the day's most esteemed dining
 selections based on peer reviews and ratings. Next to this feature there will be a selection portal, where the user can identify themselves as either a vendor or a student. Vendors are redirected to their Vendor Home Page, and students are able to leave reviews on meals they have tried.
 
+If the logged in user has the admin role they are allowed to delete restaraunts and delete reviews from restaurants
+<img src="docs/landingpageadmin.png">
 
 
 ## User profile page
-<img src="docs/m2userPage.png">
+<img src="docs/userpagem3.png">
 
-Upon arriving at the landing page, users can navigate to the sign-in link or, if already signed in, they can select their username which brings down a selection where the user can select My Profile. This action redirects them to their profile page, which displays their personal information. On this page, users have the option to edit and update their profile details.For vendor users, the profile page serves as a platform to submit their restaurant details and credentials for verification and for students they have a selection to write a review.
+Upon arriving at the landing page, users can navigate to the sign-in link or, if already signed in, they can select their username which brings down a selection where the user can select My Profile. This action redirects them to their profile page, which displays their personal information and all of the reviews they have made. On this page, users have the option to edit and update their profile details.For vendor users, the profile page serves as a platform to submit their restaurant details and credentials for verification and for students they have a selection to write a review.
 
 ## Edit User Profile Page
-<img src="docs/m2editprofilepage.png">
+<img src="docs/edit-pagem3.png">
 
 On their profile page, users will find a button that allows them to access the edit profile section. Here, they can update their first name, last name, and profile picture.
 
 
 ## Add Restaurant Page
-<img src="docs/m2vendorpage.png">
+<img src="docs/addrestaurant3.png">
 
 This page is accessible by selecting "Add Restaurant" on the NavBar and is exclusively available to users with the title of Vendor. On this page, vendors can add their restaurant's name, opening and closing hours, address, image, and a description of the restaurant they wish to add.
 
 ## Our Vendors Page
-<img src="docs/m2ourvendorspage.png">
+<img src="docs/ourvendors3.png">
 
-This page is accessible by selecting "Our Vendors" on the NavBar. On this page, users are able to search for items from our vendors with a filter. The users are also allowed to select the items that redirects them to the review page where they are able to create a review.
+This page is accessible by selecting "Our Vendors" on the NavBar. On this page, users are able to search for items from our vendors with a filter. The users are also allowed to select the restaurants that redirects them to the review page where they are able to create a review.
 
 ## Whats Hot Page
-<img src="docs/whatshotpage.png">
+<img src="docs/whatshot3.png">
 
-This page showcases restaurants and items that are positvely reviewed. Users will be greeted with the "Spotlight Of The Week" section which showcases a restaurant their reviews and where they are located. This page also allows users to select items that are showcased and select it to find the store its being sold from.
+This page showcases restaurants that are positvely reviewed. Users will be greeted with the "Spotlight Of The Week" section which showcases a restaurant their reviews and where they are located. This page also allows users to select items that are showcased and select it to find the store its being sold from.
 
 ## Review Page
-<img src="docs/m2leaveareviewpage.png">
+<img src="docs/reviewpage.png">
 
-Our Leave Review Page feature offers an easy way for users to share their experiences. The user is able to go to the review page by clicking food items that are on the landing page or from the user profile page which will redirect the user to a review page of that specific item you have chosen. This is where the user is able to select the rating and leave comments on what they think about the item they are reviewing. 
+Our Leave Review Page feature offers an easy way for users to share their experiences. The user is able to go to the review page by clicking restaurants that are on the landing page or from the user profile page which will redirect the user to a page where the user can select a restaurant to review. This is where the user is able to select the rating and leave comments on what they think about the restaurant they are reviewing. 
 
 ## About Us Page
-<img src="docs/m2aboutuspage.png">
+<img src="docs/aboutus1.png">
+<img src="docs/aboutus2.png">
+<img src="docs/aboutus3.png">
 
 This page gives an in depth explanation on what the website is trying to achieve. We give information on how we are used and when our application can become handy, the page also provides links to other pages where users can start interacting with the application.
 
 
+## Community Feedback
 
+#### Michelle L. 
+I think this website has a lot of great potential! It seems super easy to navigate and I like that you can see other people's reviews on the website, which I think is better than going to google maps to find reviews. 
+
+#### Joyce L. 
+This website is super cute and I especially like the little fire icon that pops up when you hover over the restaurant haha. I'm into graphic design and I like that you stuck with UH Manoa colors with a bright orange as your secondary color. The icons are also really clear and easy to understand. One suggestion I have to improve the website is to maybe make the pictures line up better. I don't know a lot about coding, but great job on your project!
+
+#### Rodney G. 
+Nice job on the website. If this is going to turn into a real website I would probably use it. Is this actually going to be a real website or is it just for the assignment?
+
+#### Natalie O.
+I really like your guys' website! It's pretty easy to navigate and I like that it has a bunch of the places that I go to. I think it would be really cool to include the menus and prices of these places for the future. 
+
+#### Jonathan B.
+Cool website. I like the fire lmao. I think the current campus dining restaurant can be a bit more like this because I sometimes get lost on there, but this one is pretty nice. I like that you included the hours of operation and maybe you guys can include the menus too. 
 
 
 

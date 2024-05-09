@@ -210,7 +210,7 @@ The second milestone mostly consists of the backend core implementation of all t
 </p>
 
 ### Link to project milestone
-
+<img src="https://github.com/FoodieFinders/Foodie-Finders/workflows/Foodie-Finders/badge.svg" alt="Build Status">
 [https://github.com/orgs/FoodieFinders/projects/3](https://github.com/orgs/FoodieFinders/projects/3)
 
 
